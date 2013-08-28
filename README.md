@@ -3,7 +3,11 @@ SMS to Tweet
 
 SMS to Tweet  - For no reason i can think of I made this script so that i can text a tweet.
 
+It's a script i've made for my raspberry pi.
 
+Any one willing to donate some funds please do to txt3rob@gmail.com I want a raspi-cam for a new project.
+
+Email me txt3rob@gmail.com if you want some help.
 
 Database Setup
 --------------
