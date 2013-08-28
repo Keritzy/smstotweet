@@ -41,7 +41,7 @@ $password = "password";
 $dbname = "databasename";
 $tablename = "twitter";
 $hostname = "localhost"; 
-
+$keyword = "Tweet";    --- Note I have a direct number but if you have a shortcode and random word put the random bit in
 $consumer_key = 'xxxxxxxxxxxxxxx';  
 $consumer_secret = 'xxxxxxxxxxxxxxxxxxxx';
 $access_token = 'xxxxxxxxxxxxxxxxxxxxxxxx';
