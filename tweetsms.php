@@ -5,7 +5,7 @@ $password = "password";
 $dbname = "databasename";
 $tablename = "twitter";
 $hostname = "localhost"; 
-
+$keyword = "Tweet";
 //##################### POST settings & MYSQL Connections #############
 
 //POST, this is the code that receives new texts
@@ -14,7 +14,7 @@ $content = $_REQUEST['content'];
 $inNumber = $_REQUEST['inNumber'];
 $email = $_REQUEST['email'];
 $credits = $_REQUEST['credits'];
-$keyword = "Tweet";
+
 //establish a connection to the database
 $dbhandle = mysql_connect($hostname, $username, $password) 
  or die("Unable to connect to MySQL". mysql_error());
