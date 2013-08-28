@@ -55,10 +55,20 @@ http://www.txtlocal.co.uk/?tlrx=149130
 you need to tell text local where to POST too. Its a simple setup process:
 
 Login to textlocal dashboard
+
 Select ‘inboxes’
+
 Select the inbox you wish to use and press ‘settings’
+
 Find the heading ‘Forward incoming messages to a URL’
+
 Enter the URL of your script.
+
 Save!
 
 
+Thanks for some code snippets:
+--------------
+Abraham Williams  http://abrah.am
+
+Matt Gooch - http://mattgooch.com/
